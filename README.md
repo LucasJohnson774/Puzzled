@@ -12,3 +12,11 @@ In this game there are 4 games even though the third one is just a combination o
 4.   The challenge is the fourth game mode which really just calls the other 3 and tracks overall score.
 
 The project overall was like 2.5 hours of coding and a hour of debugging mainly with games 1 and 4.  The anyways this is my first real project because folktale didn't require a lot of this extra stuff so I'm still learning java and web design through css so this is just a quicker simple learning game.
+
+1. Download Puzzled.jar
+2. Open your terminal or Command Prompt and navigate to where the file was downloaded:
+   bash
+   cd Downloads
+3. Run the game:
+   bash
+   java -jar Puzzled.jar
